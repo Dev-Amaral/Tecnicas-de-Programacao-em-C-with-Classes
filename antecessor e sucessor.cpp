@@ -1,5 +1,6 @@
 #include<iostream>
 //testando comando pull
+//testando comando push
 using namespace std;
 int main(){
 	int n1;
